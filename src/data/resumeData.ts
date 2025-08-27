@@ -12,6 +12,7 @@ export const resumeData: ResumeData = {
       display: "My Github"
     },
     linkedin: {
+
       url: "https://www.linkedin.com/in/ashkan-sabbaghi/",
       display: "My Linkedin"
     }
